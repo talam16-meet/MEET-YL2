@@ -1,0 +1,27 @@
+<html>
+	<head>
+	<link rel=stylesheet type=text/css href="contact_me.css">
+	<title> Contact me </title>
+	</head>
+
+	<body>
+	<img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="170px" width="170px"><br>
+	<h1 style= color:CC0066; > Contact me </h1>
+	<h3 style= color:FF66B2> You can contact me on: </h3>
+	<p> E-mail: tala.mannaa@gmail.com </p>
+	<p> Facebook: Tala Manna'a </p>
+	<h3 style= color:FF66B2> Or you can submit your details so I can contact you: </h3>
+	<form>
+	E-mail <input type= "text"><br> 
+	Facebook <input type= "text"><br>
+	
+	</form>
+
+	<a href="home.html" > Click here to return to the home page </a><br>
+	<a href="about_me.html" > Click here if you want to know more about me! </a>
+	
+
+
+	</body>
+
+</html>
