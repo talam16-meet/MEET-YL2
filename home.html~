@@ -7,14 +7,17 @@
 
 	<body>
 	
-	<img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="170px" width="170px">
+	<img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="220px" width="220px"> 
+	<nav> <div id= "blocks">
+	<a class="a1" href="home.html">|HOME|</a> 
+	<a class="a2"href="about_me.html">|ABOUT ME|</a> 
+	<a class="a3"href="contact_me.html">|CONTACT ME|</a> 
+	</nav> </div> <br>
 	<h1 style= color:CC0066; > Home Page </h1>
-	<p> Hi my name is Tala Manna'a, I am 16 years old.</p>
-	<p> I live in Beit Hanina, but I am originally from the north of palestine, from a village called Majd Al-Kurum.
-	<p> I go to College Des Freres, I follow the IGCSE route in school, it's a british programme.</p>
-	<p> I love to read, my favourite author when I was younger was Meg Cabot, now I'm not sure anymore! </p>
-	<a href="about_me.html" > Click here if you want to know more about me! </a><br>
-	<a href="contact_me.html" > Click here if you want to contact me! </a>
+	<p> Hi my name is Tala Manna'a, I am a 16 year old Palestinian.</p>
+	<p> Welcome to my Website. </p>
+	<p> If you want to know more about me then you are in the right place, this website talks about me and tells you ways you can contact me in! </p>
+	
 	
 
 	

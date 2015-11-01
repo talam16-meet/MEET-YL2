@@ -1,4 +1,50 @@
 body {
-background-image:http://33.media.tumblr.com/tumblr_me0howdz451rshr70.png
+background-image:url("tumblr_me0howdz451rshr70.png");
 
+}
+a:link, a:visited {
+	display: block;
+	width: 220px;
+	font-weight: bold;
+	color: #99004C;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: fantasy;
+ }
+a:hover, a:active{
+	color: #404040;
+	text-decoration: none;
+	font-size: 24px;
+	font-family: fantasy;
+}
+
+.a1 {
+	float:left;
+
+}
+.a2 {
+	float:left;
+
+}
+.a3 {
+	float:left;
+
+}
+h1 {
+	font-size: 30px;
+	font-family: fantasy;
+}
+h3 {
+	font-size: 25px;
+	font-family: fantasy;
+ }
+ul {
+	font-size: 23px;
+	font-family: fantasy;
+ }
+p {
+	font-size: 20px;
+	font-family: fantasy;
 }

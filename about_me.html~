@@ -3,16 +3,51 @@
 	<link rel=stylesheet type=text/css href="about_me.css">
 	<title> About me </title>
 	</head>
-
+	
 	<body>
-	<img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="170px" width="170px"><br>
+	<img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="220px" width="220px">
+	<div><nav> 
+	<a class="a1" href="home.html">|HOME|</a> 
+	<a class="a2"href="about_me.html">|ABOUT ME|</a> 
+	<a class="a3"href="contact_me.html">|CONTACT ME|</a> 
+	</nav> </div> <br>
 	<h1 style= color:CC0066; > About me </h1>
+	<p> I am a Muslim 16 year old girl living in Beit Hanina </p>
+	<p> I am originally from the north of Palestine, from a village called Majd Al-Kurum.</p>
+	<p> I have one older sister (19 years old) and one younger brother (15 years old). </p>
+	<p> I go to College Des Freres, I follow the IGCSE route in school, it's a british programme. We only study scientific subjects (Chemistry, Biology, & Mathematics).</p>
+	<p> I love to read, my favourite author when I was younger was Meg Cabot (the author of Princess Diaries), now I'm not sure anymore! </p>
+	<p> My favorite color is purple. </p>
 	<h3 style= color:FF66B2> Hobbies: </h3>
-	<p> Dancing </p>
-	<p> Reading </p>
-	<p> Playing the Violin </p> 
-	<a href="home.html" > Click here to return to the home page </a><br>
-	<a href="contact_me.html" > Click here if you want to contact me! </a>
+	<ul>
+	<li> Dancing</li>
+	<p> Mainly Dabkeh (Palestinian traditional dance), but I also dance Ballet and Modern from time to time. </p> 
+	<li> Reading </li>
+	<p> All kinds of books, as long as I am reading, it doesn't matter what it is... Also it has to be interesting. </p>
+	<li> Playing the Violin </li>
+	<p> I started when I was six years old! </p>
+	</ul>
+	<h3 style= color:FF66B2> Wishes: </h3>
+	<ul>
+	<li> Italy </li>
+	<p> I wish to go to Italy one day.  </p> 
+	<li> Reading </li>
+	<p> Finish all the books in my library. </p>
+	<li> Playing the Trumpet </li>
+	<p> It is just magnificent... and really hard to blow! </p>
+	</ul>
+	<h3 style= color:FF66B2> I've been to: </h3>
+	<ul>
+	<li> EGYPT, Sharm El-Sheikh (7 times & counting)</li>
+	<li> HOLLAND </li>
+	<li> MALTA </li>
+	<li> BULGARIA </li>
+	<li> VIENNA </li>
+	<li> HUNGARY </li>
+	<li> AMERICA, Atlanta and Texas </li>
+	<li> GREECE, Crete and Rhodes</li>
+	<li> TURKEY, Antalya</li>
+	</ul>
 	
 
 
