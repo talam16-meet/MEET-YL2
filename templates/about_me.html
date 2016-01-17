@@ -1,15 +1,15 @@
 <html>
 	<head>
-	<link rel=stylesheet type=text/css href="about_me.css">
+	<link rel=stylesheet type=text/css href="/static/about_me.css">
 	<title> About me </title>
 	</head>
 	
 	<body>
 	<img src="http://www.dreamjordan.com/up/6353hlmjo.jpg" height="220px" width="220px">
 	<div><nav> 
-	<a class="a1" href="home.html">|HOME|</a> 
-	<a class="a2"href="about_me.html">|ABOUT ME|</a> 
-	<a class="a3"href="contact_me.html">|CONTACT ME|</a> 
+	<a class="a1" href="{{ url_for('Home')}}">|HOME|</a> 
+	<a class="a2"href="{{ url_for('About_me')}}">|ABOUT ME|</a> 
+	<a class="a3"href="{{ url_for('Contact_me')}}">|CONTACT ME|</a> 
 	</nav> </div> <br>
 	<h1 style= color:CC0066; > About me </h1>
 	<p> I am a Muslim 16 year old girl living in Beit Hanina </p>
